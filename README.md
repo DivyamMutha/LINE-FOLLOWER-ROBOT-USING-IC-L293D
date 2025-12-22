@@ -61,7 +61,7 @@ Autonomous vehicle fundamentals.
 
 
 LINE FOLLOWER ROBOT CIRCUIT ARCHITECTURE :
-![image alt](https://github.com/DivyamMutha/LINE-FOLLOWER-ROBOT-USING-IC-L293D/blob/693c25616d3065a0315be1fb37ae264e631e7098/Line%20Following%20Robot%20-%20Circuit.pdf)
+![image alt]https://github.com/DivyamMutha/LINE-FOLLOWER-ROBOT-USING-IC-L293D/blob/277739fab061d7eb7d5063e20fac18772cfdb46d/Line%20Following%20Robot%20-%20Circuit.pdf
 
 
 
