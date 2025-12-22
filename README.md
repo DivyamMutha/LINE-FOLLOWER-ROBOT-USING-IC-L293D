@@ -66,6 +66,7 @@ SCHEMATIC DIAGRAM
 ![image alt](https://github.com/DivyamMutha/LINE-FOLLOWER-ROBOT-USING-IC-L293D/blob/be9034b4ebe6f38861eeb933b6b3d0e9a13c4bf7/Line%20Following%20Robot%20-%20Circuit.pdf)
 
 PCB LAYOUT
+
 ![image alt](https://github.com/DivyamMutha/LINE-FOLLOWER-ROBOT-USING-IC-L293D/blob/be9034b4ebe6f38861eeb933b6b3d0e9a13c4bf7/Line%20Follower%20Robot%20PCB%20Layout.png)
 
 
