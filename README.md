@@ -58,3 +58,10 @@ Educational robotics.
 Embedded systems laboratory project.
 
 Autonomous vehicle fundamentals.
+
+
+LINE FOLLOWER ROBOT CIRCUIT ARCHITECTURE :
+![image alt](https://github.com/DivyamMutha/LINE-FOLLOWER-ROBOT-USING-IC-L293D/blob/693c25616d3065a0315be1fb37ae264e631e7098/Line%20Following%20Robot%20-%20Circuit.pdf)
+
+
+
